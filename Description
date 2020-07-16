@@ -1,0 +1,3 @@
+This program uses ORTools 7.x
+The code gives optimised route for 4 vhicles travelling across 16 nodes with pickup and deliveries.
+Pickup points have different pickup demands and all the vehicles have to travel in order to pickup the load ad deliver to desired location in minimum distance.

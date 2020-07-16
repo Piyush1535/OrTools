@@ -1,0 +1,4 @@
+The code uses ORTools 7.x
+Aim of the code is to get latitudes and longitudes from the CSV file and use it to develop a program that will optimise the route for any number of vehicles.
+Vehicles have to travel from pickup locations and need to pick load from there then have to deliver it to the desired location.
+Code uses time matrix as vehicles are bound to time
